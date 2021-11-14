@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MISA.ApplicationCore",
+    "\\MISA.ApplicationCore\\bin",
+    "\\MISA.ApplicationCore\\bin\\Release",
+    "\\MISA.ApplicationCore\\bin\\Release\\net5.0",
+    "\\MISA.ApplicationCore\\bin\\Release\\net5.0\\ref",
+    "\\MISA.ApplicationCore\\Interface",
+    "\\MISA.ApplicationCore\\Properties",
+    "\\MISA.ApplicationCore\\Service",
+    "\\MISA.Infrastructure"
+  ],
+  "SelectedNode": "\\MISA.ApplicationCore\\Service\\BaseService.cs",
+  "PreviewInSolutionExplorer": false
+}
